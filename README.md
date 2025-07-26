@@ -40,5 +40,5 @@ Then, summarize key findings and suggest how a fictional brand can differentiate
 ---
 
 ## 🚀 Created by
-`[Your Name]` – as part of the SkillCraft Technology Learning Program.
+`Bhanu Prakash D` – as part of the SkillCraft Technology Learning Program.
 
